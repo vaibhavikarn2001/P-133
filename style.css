@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+h1{
+    font-family: 'Puppies Play', cursive;
+    font-size:85px;
+    background-image: linear-gradient(to right, pink,lightgreen,lightblue,violet);
+}
+h2{
+    font-family: 'Advent Pro', sans-serif;
+ width:600px;
+ border-radius:20px;
+  font-size:25px;
+    background-color:white;
+
+}
+canvas{
+    border:10px,solid,black;
+    margin-top:5%;
+}
